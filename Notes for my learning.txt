@@ -1,0 +1,4 @@
+What wea re doing in this project?
+
+1 -> Selected HSV colorspace, remember that cylindrical hsv channels segmentation
+2 -> Mask was needed to convert in PILLOW data variable, to call boundarybox
